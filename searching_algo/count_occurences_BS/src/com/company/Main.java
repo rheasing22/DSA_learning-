@@ -9,6 +9,8 @@ public class Main {
         int key = 4;
         int count = countOccurrences(arr, len, key);
         System.out.println("the count is "+count);
+        count = occurrenceCntIterative(arr,len,key);
+        System.out.println("the count is "+count);
 
 
 
@@ -45,6 +47,7 @@ public class Main {
         return -1; // if element not found
     }
 
+     //In worst case, it will take O(log n) the while loop for the count will be very small so O(log n)
     static int countOccurrences(int arr[], int len, int key)
     {
 
@@ -74,4 +77,15 @@ public class Main {
 
         return count;
     }
+
+    //In worst case, the for loop takes O(n) time.
+    static int occurrenceCntIterative(int arr[], int len, int key)
+    {
+        int cnt = 0;
+        for(int i = 0; i<len; i++)
+            if(arr[i] == key)
+                cnt++;
+        return cnt;
+    }
+
 }
