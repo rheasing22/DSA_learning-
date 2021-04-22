@@ -47,7 +47,7 @@ public class Main {
         return -1; // if element not found
     }
 
-     //In worst case, it will take O(log n) the while loop for the count will be very small so O(log n)
+     //In worst case, it will take O(log n+ s) the while loop for the count will be very small so O(log n)
     static int countOccurrences(int arr[], int len, int key)
     {
 
