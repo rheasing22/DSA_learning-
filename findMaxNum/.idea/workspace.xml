@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2e675a7-b5da-45e7-b6c1-37789a772971" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seperateEvenOddArrays/seperateEvenOddArrays.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/binary_search/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/binary_search/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/binary_search/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/binary_search/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/binary_search/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/binary_search/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/binary_search/binary_search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/binary_search/out/production/binary_search/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/binary_search/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/count_occurences_BS/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/count_occurences_BS/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/count_occurences_BS/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/count_occurences_BS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/count_occurences_BS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/count_occurences_BS/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/count_occurences_BS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/count_occurences_BS/count_occurences_BS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/count_occurences_BS/out/production/count_occurences_BS/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/count_occurences_BS/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/findSmallestMissNo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/findSmallestMissNo/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/findSmallestMissNo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/findSmallestMissNo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/findSmallestMissNo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/findSmallestMissNo/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/findSmallestMissNo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/findSmallestMissNo/findSmallestMissNo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/findSmallestMissNo/out/production/findSmallestMissNo/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/findSmallestMissNo/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/searching_algorithims_01_linear_search/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/searching_algorithims_01_linear_search/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/searching_algorithims_01_linear_search/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/searching_algorithims_01_linear_search/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/searching_algorithims_01_linear_search/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/searching_algorithims_01_linear_search/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/searching_algorithims_01_linear_search/out/production/searching_algorithims_01_linear_search/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/searching_algorithims_01_linear_search/searching_algorithims_01_linear_search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/searching_algorithims_01_linear_search/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/untitled/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/untitled/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/untitled/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching_algo/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algo/sorting_bubbleSort/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algo/sorting_bubbleSort/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algo/sorting_bubbleSort/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algo/sorting_bubbleSort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algo/sorting_bubbleSort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algo/sorting_bubbleSort/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algo/sorting_bubbleSort/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algo/sorting_bubbleSort/out/production/sorting_bubbleSort/com/company/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algo/sorting_bubbleSort/sorting_bubbleSort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algo/sorting_bubbleSort/src/com/company/BubbleSort.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ryRU3fRbPLMAU4pP7QYOAWsZWd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.findMaxNumber" />
+      <module name="findMaxNum" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2e675a7-b5da-45e7-b6c1-37789a772971" name="Default Changelist" comment="" />
+      <created>1619946360484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619946360484</updated>
+      <workItem from="1619946364209" duration="407000" />
+      <workItem from="1619946831229" duration="742000" />
+      <workItem from="1619971523791" duration="693000" />
+      <workItem from="1620025066652" duration="640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="207" y="136" width="1086" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619946406123">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="207" y="136" width="1086" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960@0.0.1500.960" timestamp="1619946406123" />
+    <state x="481" y="283" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1619946404751">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="481" y="283" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1500.960@0.0.1500.960" timestamp="1619946404751" />
+    <state x="531" y="235" key="FileChooserDialogImpl" timestamp="1619946972333">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="531" y="235" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1619946972333" />
+    <state width="705" height="255" key="GridCell.Tab.0.bottom" timestamp="1619946776975">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="705" height="255" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1619946776975" />
+    <state width="705" height="255" key="GridCell.Tab.0.center" timestamp="1619946776975">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="705" height="255" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1619946776975" />
+    <state width="705" height="255" key="GridCell.Tab.0.left" timestamp="1619946776974">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="705" height="255" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1619946776974" />
+    <state width="705" height="255" key="GridCell.Tab.0.right" timestamp="1619946776975">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="705" height="255" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1619946776975" />
+    <state x="252" y="125" key="SettingsEditor" timestamp="1619946860523">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="252" y="125" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1619946860523" />
+    <state x="175" y="101" key="new project wizard" timestamp="1620025117685">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="175" y="101" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1620025117685" />
+  </component>
+</project>
